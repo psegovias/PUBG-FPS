@@ -5,6 +5,7 @@ Better FPS on PlayerUnknown's Battlegrounds
 Go to:
 
 C:\Users\YOURUSERNAME\AppData\Local\TslGame\Saved\Config
+#
 Backup files first 
 Drop this three files in that folder.
 Unlock Read Only Files.
