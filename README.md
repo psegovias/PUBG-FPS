@@ -1,3 +1,7 @@
+#ScreenShot
+
+![Alt text](http://i.imgur.com/hnsxngx.jpg)
+
 # PUBG-FPS
 Better FPS on PlayerUnknown's Battlegrounds
 
