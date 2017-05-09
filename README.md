@@ -15,4 +15,4 @@ Unlock Read Only Files.
 Copy from "OLD" "GameUserSettings.ini" CustomInputSettins=(.......) to new one. (this contais binds key commands)
 #
 
-Visit pubg.cl/foro for more info.
+Visit www.pubg.cl/foro for more info.
